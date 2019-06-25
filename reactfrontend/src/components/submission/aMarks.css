@@ -1,0 +1,15 @@
+.submit{
+    margin-left: 20px;
+}
+
+.cardView{
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.msg{
+    margin-left: 20px;
+    color: red;
+}
